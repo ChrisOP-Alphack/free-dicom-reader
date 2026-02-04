@@ -8,12 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
-    "cornerstone-core": "^2.6.1",
-    "cornerstone-math": "^0.1.10",
-    "cornerstone-wado-image-loader": "4.13.2",
-    "dicom-parser": "^1.8.21",
-    "next": "^14.2.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "next": "14.2.35",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "cornerstone-core": "2.6.1",
+    "cornerstone-math": "0.1.10",
+    "dicom-parser": "1.8.21",
+    "cornerstone-wado-image-loader": "4.13.2"
+  },
+  "devDependencies": {
+    "typescript": "5.4.5",
+    "@types/node": "20.11.30",
+    "@types/react": "18.2.66",
+    "@types/react-dom": "18.2.22"
   }
 }
